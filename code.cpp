@@ -1,2 +1,3 @@
-int sum(int num1, int num2){
+int summation(int num1, int num2){
   return num1 + num2;
+}
